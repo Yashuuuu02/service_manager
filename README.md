@@ -1,16 +1,26 @@
-# service_manager
+# Service Manager
 
-A new Flutter project.
+A comprehensive solution for managing vehicle service operations, customer details, and inventory.
+
+## Project Structure
+
+- **frontend/**: Contains the main Flutter application source code.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run the application locally, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1.  **Navigate to the project directory:**
+    ```bash
+    cd frontend
+    ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2.  **Install dependencies:**
+    ```bash
+    flutter pub get
+    ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3.  **Run the application:**
+    ```bash
+    flutter run
+    ```
